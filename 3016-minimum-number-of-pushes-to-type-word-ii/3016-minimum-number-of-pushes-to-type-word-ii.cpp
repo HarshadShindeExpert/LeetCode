@@ -8,10 +8,6 @@ public:
         {
             count[word[i] - 'a'] +=1 ;
         }
-        for(int i=0 ; i< 26 ; i++)
-        {
-            if(count[i] != 0) nums++;
-        }
         sort(count.begin() , count.end() , greater<int>());
 
         for (int i = 0; i < 26; i++) {
