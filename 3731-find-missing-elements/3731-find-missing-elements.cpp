@@ -1,26 +1,24 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        vector<int> ans ;
-        if(nums.size() == 0 || nums.size() == 1)
-        {
-            return ans ;
+
+        vector<bool> present(101, false);
+
+        int mn = 101, mx = 0;
+
+        for (int x : nums) {
+            present[x] = true;
+            mn = min(mn, x);
+            mx = max(mx, x);
         }
-        sort(nums.begin() , nums.end());
-        int start = nums[0] ;
-        for(int i=1 ; i < nums.size() ; i++)
-        {
-            start ++ ;
-            int current = nums[i] ;
-            if(start != current)
-            {
-                while(start < current)
-                {
-                    ans.push_back(start);
-                    start ++ ;
-                }
-            }
+
+        vector<int> ans;
+
+        for (int i = mn + 1; i < mx; i++) {
+            if (!present[i])
+                ans.push_back(i);
         }
-        return ans ;
+
+        return ans;
     }
 };
