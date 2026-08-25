@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
