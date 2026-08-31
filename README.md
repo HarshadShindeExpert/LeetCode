@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/HarshadShindeExpert/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshadShindeExpert/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
