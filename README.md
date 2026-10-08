@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/HarshadShindeExpert/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HarshadShindeExpert/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshadShindeExpert/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
