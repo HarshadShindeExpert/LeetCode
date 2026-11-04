@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/HarshadShindeExpert/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshadShindeExpert/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0242-valid-anagram) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshadShindeExpert/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshadShindeExpert/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
